@@ -27,6 +27,8 @@ This project investigates the surge in food prices across Nigeria, focusing on *
 > As food prices soar, the gap between paycheques and the cost of a simple plate of food is widening for millions of Nigerians. This tracker analyzes the crisis, exposes regional and item-level inequities, and flags urgent areas for intervention.
 
 ---
+![Food inflation tracker analysis dashboard](https://github.com/user-attachments/assets/d5445fcb-299c-4273-8708-24dba331edb6)
+
 
 ## Key Questions Addressed
 - **How much have staple food prices increased across Nigeria over the past year?**  
